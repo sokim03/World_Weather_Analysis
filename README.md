@@ -1,6 +1,7 @@
 # World_Weather_Analysis
 
-## Overview of analysis: updating PlanMyTrip app to include weather description among other things to allow users to make informed travel destination choices. 
+## Overview of analysis: 
+Updating PlanMyTrip app to include weather description among other things to allow users to make informed travel destination choices. 
 
 ## Results: 
 1) Retrieve Weather Data by:
